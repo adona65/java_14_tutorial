@@ -2,7 +2,7 @@
 Contains tests and tutorials about java 14 new features.
 <br/>
 <br/>
-<u><b>Java 14 Release date :</u></b> March 2010.
+<u><b>Java 14 Release date :</u></b> March 2020.
 <br/>
 <br/>
 <u><b>Java 14 Release notes :</u></b> <a href="https://www.oracle.com/java/technologies/javase/14-relnote-issues.html">Available on Oracle's site.</a>
